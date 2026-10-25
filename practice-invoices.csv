@@ -1,0 +1,7 @@
+invoice_id,customer,email,invoice_date,due_date,amount,paid
+INV-DEMO-1001,Ubuntu Office Supplies,accounts@ubuntu-example.test,2026-09-01,2026-09-20,18500,0
+INV-DEMO-1002,Greenview Guest House,finance@greenview-example.test,2026-09-15,2026-10-05,9200,2000
+INV-DEMO-1003,Mokoena Design Studio,hello@mokoena-example.test,2026-10-01,2026-10-27,6400,0
+INV-DEMO-1004,Sunrise Catering,bookkeeping@sunrise-example.test,2026-10-10,2026-11-09,12750,0
+INV-DEMO-1005,Karoo Print Works,accounts@karoo-example.test,2026-08-03,2026-08-31,24800,5000
+INV-DEMO-1006,Thandi Tech Services,finance@thandi-example.test,2026-10-04,2026-10-18,3800,0
